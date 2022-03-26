@@ -1,4 +1,4 @@
-package com.example.creaciondeinterfaz
+package models
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

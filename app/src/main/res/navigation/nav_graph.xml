@@ -11,12 +11,45 @@
         android:label="fragment_menu"
         tools:layout="@layout/fragment_menu" >
         <action
-            android:id="@+id/irAClasifiacion"
+            android:id="@+id/irAClasificacion"
             app:destination="@id/clasificacionFragment" />
+        <action
+            android:id="@+id/irAGenero"
+            app:destination="@id/generoFragment" />
+        <action
+            android:id="@+id/irAIdioma"
+            app:destination="@id/idiomaFragment" />
+        <action
+            android:id="@+id/irANacionalidad"
+            app:destination="@id/nacionalidadFragment" />
+        <action
+            android:id="@+id/irAPelicula"
+            app:destination="@id/peliculaFragment" />
     </fragment>
     <fragment
         android:id="@+id/clasificacionFragment"
         android:name="com.example.creaciondeinterfaz.clasificacionFragment"
         android:label="fragment_clasificacion"
         tools:layout="@layout/fragment_clasificacion" />
+    <fragment
+        android:id="@+id/generoFragment"
+        android:name="com.example.creaciondeinterfaz.generoFragment"
+        android:label="fragment_genero"
+        tools:layout="@layout/fragment_genero" />
+    <fragment
+        android:id="@+id/idiomaFragment"
+        android:name="com.example.creaciondeinterfaz.item_idioma"
+        android:label="fragment_item_idioma"
+        tools:layout="@layout/fragment_item_idioma" />
+    <fragment
+        android:id="@+id/nacionalidadFragment"
+        android:name="com.example.creaciondeinterfaz.nacionalidadFragment"
+        android:label="fragment_nacionalidad"
+        tools:layout="@layout/fragment_nacionalidad" />
+    <fragment
+        android:id="@+id/peliculaFragment"
+        android:name="com.example.creaciondeinterfaz.peliculaFragment"
+        android:label="fragment_pelicula"
+        tools:layout="@layout/fragment_pelicula" />
+
 </navigation>

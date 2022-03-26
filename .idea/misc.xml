@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/campo/AndroidStudioProjects/CreacionDeInterfaz/app/src/main/res/layout/item_clasificacion.xml" value="0.1" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/fragment_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/item_clasificacion.xml" value="0.25" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/item_genero.xml" value="0.1" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/item_idioma.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/item_nacionalidad.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/campo/AndroidStudioProjects/peliculas/app/src/main/res/layout/item_pelicula.xml" value="0.1" />
         <entry key="..\:/Users/isi27/AndroidStudioProjects/CreacionDeInterfaz/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/isi27/AndroidStudioProjects/CreacionDeInterfaz/app/src/main/res/layout/fragment_clasificacion.xml" value="0.1" />
         <entry key="..\:/Users/isi27/AndroidStudioProjects/CreacionDeInterfaz/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
